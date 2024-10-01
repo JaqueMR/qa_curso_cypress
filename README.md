@@ -1,6 +1,6 @@
 # Projeto Desenvolvido no Curso "Cypress: Automatizando Testes E2E"
 
-Este projeto foi desenvolvido como parte do curso "Cypress: Automatizando Testes E2E". O objetivo do curso foi capacitar profissionais de Quality Assurance (QA) a utilizar a ferramenta Cypress para automação de testes em aplicações web.
+Este projeto foi desenvolvido como parte do curso "Cypress: Automatizando Testes E2E",da formação Quality Assurance (QA), no Alura. 
 
 ## Aprendizados e Técnicas Implementadas
 
